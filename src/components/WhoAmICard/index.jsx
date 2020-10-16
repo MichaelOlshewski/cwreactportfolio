@@ -1,6 +1,5 @@
 import React from 'react';
 import { FaMapPin, FaCertificate } from 'react-icons/fa'
-import Col from 'react-bootstrap/Col'
 
 function WhoAmICard() {
     return (
