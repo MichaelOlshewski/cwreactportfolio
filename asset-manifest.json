@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.cb78a312.chunk.css",
-    "main.js": "/static/js/main.51794565.chunk.js",
-    "main.js.map": "/static/js/main.51794565.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6ec6c845.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6ec6c845.js.map",
-    "static/js/2.ed81317c.chunk.js": "/static/js/2.ed81317c.chunk.js",
-    "static/js/2.ed81317c.chunk.js.map": "/static/js/2.ed81317c.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f6d58e80c4c1d47566586007127e1b83.js": "/precache-manifest.f6d58e80c4c1d47566586007127e1b83.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.cb78a312.chunk.css.map": "/static/css/main.cb78a312.chunk.css.map",
-    "static/js/2.ed81317c.chunk.js.LICENSE.txt": "/static/js/2.ed81317c.chunk.js.LICENSE.txt",
-    "static/media/resume.pdf": "/static/media/resume.367da7fd.pdf"
+    "main.css": "/cwreactportfolio/static/css/main.cb78a312.chunk.css",
+    "main.js": "/cwreactportfolio/static/js/main.51794565.chunk.js",
+    "main.js.map": "/cwreactportfolio/static/js/main.51794565.chunk.js.map",
+    "runtime-main.js": "/cwreactportfolio/static/js/runtime-main.eddb557f.js",
+    "runtime-main.js.map": "/cwreactportfolio/static/js/runtime-main.eddb557f.js.map",
+    "static/js/2.ed81317c.chunk.js": "/cwreactportfolio/static/js/2.ed81317c.chunk.js",
+    "static/js/2.ed81317c.chunk.js.map": "/cwreactportfolio/static/js/2.ed81317c.chunk.js.map",
+    "index.html": "/cwreactportfolio/index.html",
+    "precache-manifest.b352c7c1ddb60a2aae30b212d31c854d.js": "/cwreactportfolio/precache-manifest.b352c7c1ddb60a2aae30b212d31c854d.js",
+    "service-worker.js": "/cwreactportfolio/service-worker.js",
+    "static/css/main.cb78a312.chunk.css.map": "/cwreactportfolio/static/css/main.cb78a312.chunk.css.map",
+    "static/js/2.ed81317c.chunk.js.LICENSE.txt": "/cwreactportfolio/static/js/2.ed81317c.chunk.js.LICENSE.txt",
+    "static/media/resume.pdf": "/cwreactportfolio/static/media/resume.367da7fd.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.6ec6c845.js",
+    "static/js/runtime-main.eddb557f.js",
     "static/js/2.ed81317c.chunk.js",
     "static/css/main.cb78a312.chunk.css",
     "static/js/main.51794565.chunk.js"
