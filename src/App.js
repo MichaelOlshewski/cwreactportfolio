@@ -3,6 +3,7 @@ import NavBar from './components/NavBar'
 import Main from './components/Main'
 import WhoAmICard from './components/WhoAmICard'
 import AboutMeCard from './components/AboutMeCard'
+import ProjectContainer from './components/ProjectContainer'
 import { Row, Col } from 'react-bootstrap'
 import './bootstrap-grid.min.css';
 import './App.css'
@@ -21,6 +22,7 @@ function App() {
           </Col>
         </Row>
       </Main>
+      <ProjectContainer/>
     </div>
   );
 }
