@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ba86a088c866d76414496287d9c2a681",
+    "revision": "b75b64d1973671b17175cda018120213",
     "url": "/cwreactportfolio/index.html"
   },
   {
-    "revision": "2aa62b1eb6a8e2b3b0ee",
+    "revision": "3f720bd91d27fe33a89e",
     "url": "/cwreactportfolio/static/css/main.cb78a312.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cwreactportfolio/static/js/2.5a130399.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2aa62b1eb6a8e2b3b0ee",
-    "url": "/cwreactportfolio/static/js/main.e174385a.chunk.js"
+    "revision": "3f720bd91d27fe33a89e",
+    "url": "/cwreactportfolio/static/js/main.a5a2ec37.chunk.js"
   },
   {
     "revision": "aa8c8a899be2ca341bb8",
